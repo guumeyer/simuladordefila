@@ -1,4 +1,4 @@
-# Queue simulation 2010 college assignment
+# Simulador de fila - 2010
 College assignment to simulate FIFO queue, by defining task duration and priority
 
 ## Requirements
